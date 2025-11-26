@@ -1,0 +1,9 @@
+[project]
+name = "python-mtm-dumydata-push"
+version = "0.1.0"
+description = "MTK Dummy 데이터 자동 전송 스크립트"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.5",
+]
